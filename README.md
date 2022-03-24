@@ -11,7 +11,7 @@
 
 Flowable HTTP SDK Client for .NET
 
-## Registration in Dependency Injection (DI)
+## Registration in Dependency Injection (DI) container
 
 ```csharp
 public static class ServiceCollectionExtensions
