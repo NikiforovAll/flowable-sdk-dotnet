@@ -1,0 +1,9 @@
+<Project>
+  <ItemGroup Label="Core">
+  </ItemGroup>
+
+  <ItemGroup Label="Release">
+    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="1.1.1"/>
+    <PackageVersion Include="MinVer" Version="2.5.0"/>
+  </ItemGroup>
+</Project>
